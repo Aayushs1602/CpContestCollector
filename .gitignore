@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+db.sqlite3
+env/
+venv/
+cpenv/
+*.log
+
+# React
+node_modules/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+Redis*
+
+cp-contest*
