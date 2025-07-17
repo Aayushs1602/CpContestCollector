@@ -1,6 +1,6 @@
 import requests
 from datetime import datetime, timezone
-from .models import Contest
+from contests.models import Contest
 
 def fetch_codeforces_contests():
     url = "https://codeforces.com/api/contest.list"
