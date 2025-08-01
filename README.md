@@ -19,11 +19,10 @@ A full-stack web app that aggregates upcoming competitive programming contests f
 
 | Layer      | Tech                                                                 |
 |------------|----------------------------------------------------------------------|
-| Frontend   | React, Tailwind CSS                                                  |
+| Frontend   | React                                                                |
 | Backend    | Django, Django REST Framework                                        |
 | Scraping   | BeautifulSoup, Requests                                              |
 | Async Jobs | Celery, Celery Beat, Redis                                           |
-| Calendar   | Google Calendar API                                                  |
 
 ---
 
