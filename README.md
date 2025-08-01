@@ -1,5 +1,4 @@
 
-````markdown
 # 🗓️ CP Contest Aggregator
 
 A full-stack web app that aggregates upcoming competitive programming contests from major platforms and displays them in a user-friendly calendar view, with options to add contests directly to Google Calendar.
@@ -38,7 +37,7 @@ cd cp-contest-aggregator/backend
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
-````
+```
 
 ### Frontend
 
