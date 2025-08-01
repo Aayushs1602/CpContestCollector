@@ -74,7 +74,7 @@ celery -A cp_aggregator beat --loglevel=info
 * Contest cards with platform logos, timers, link to contest page and calendar integration
 * Filtering options based on platform name and timing
 * Highlights the contest taking place today
-![UI](cp_aggregator\assests\image.png)
+![UI](cp_aggregator/assests/image.png)
 
 ---
 
