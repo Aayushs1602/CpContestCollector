@@ -8,7 +8,7 @@ A full-stack web app that aggregates upcoming competitive programming contests f
 ## 🚀 Features
 
 - 🔁 Fetches contests from **Codeforces, AtCoder, LeetCode, and CodeChef**
-- ⏰ Auto-updates every hour using **Celery + Celery Beat**
+- ⏰ Auto-updates every 12 hour using **Celery + Celery Beat**
 - 🧠 Backend built with **Django + Django REST Framework**
 - ⚛️ Frontend powered by **React**
 - 🗓️ One-click **Google Calendar integration**
@@ -73,6 +73,8 @@ celery -A cp_aggregator beat --loglevel=info
 
 * Contest cards with platform logos, timers, link to contest page and calendar integration
 * Filtering options based on platform name and timing
+* Highlights the contest taking place today
+![UI](assests\image.png)
 
 ---
 
