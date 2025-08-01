@@ -88,6 +88,6 @@ celery -A cp_aggregator beat --loglevel=info
 ## 🧑‍💻 Author
 
 **Aayush Srivastava**
-[GitHub](https://github.com/Aayushs1602) • [LinkedIn](https://www.linkedin.com/in/aayushs1602](https://www.linkedin.com/in/aayushsrivastava1602/))
+[GitHub](https://github.com/Aayushs1602) • [LinkedIn](https://www.linkedin.com/in/aayushsrivastava1602/)
 
 
